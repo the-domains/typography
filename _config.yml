@@ -1,6 +1,6 @@
 name: Typography
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.06351
 cta:
   domain: null
   bucket: null
@@ -14,7 +14,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#5590b9'
+    - '#2b2f32'
+    - '#ede7da'
+    - '#be494a'
+    - '#c08068'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
